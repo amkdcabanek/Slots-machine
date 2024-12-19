@@ -2,7 +2,7 @@
 
 This project is a web-based slot machine simulator built with HTML, CSS, and JavaScript. It features animated reels, dynamic winning conditions, and interactive user controls, offering an engaging gaming experience. 
 
-Link: https://amkdcabanek.github.io/Slots-machine/
+Link: https://amkdcabanek.github.io/Slots-machine-online/
 
 ## Features
 
